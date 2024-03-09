@@ -1,0 +1,5 @@
+.botones-container {
+    display: flex; /* Establece un contenedor de tipo flexbox */
+    justify-content: space-between; /* Distribuye los elementos de forma equitativa a lo largo del contenedor */
+    width: 100%; /* Ajusta el ancho del contenedor al 100% */
+}
